@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body
+{
+    height:100%;
+    width:100%;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background:linear-gradient(rgb(169, 238, 255), rgb(155, 238, 255), rgb(200, 210, 214))
+}
+
+.name{
+    padding: 40px 40px;
+    background-color: rgba(0, 0, 31, 0.852);
+    color: white;
+}
+
+#About{
+    padding: 40px;
+}
+
+#box1{
+background-color: white;
+height: 120px;
+padding: 20px;
+}
+
+.education
+{
+    padding: 40px;
+}
+
+#edubox
+{
+    background-color: rgba(17, 152, 152, 0.696);
+    padding: 30px;
+}
+
+#edp{
+    margin: 10px 0px;
+    padding: 10px;
+    background-color: white;
+
+}
+
+#skils{
+    padding: 40px;
+}
+
+#skboxyellow{
+    background-color: rgb(235, 195, 142);
+    padding: 30px;
+}
+
+
+#projects{
+    padding: 40px;
+}
+
+#projectbox{
+    background-color: rgb(219, 187, 234);
+padding: 30px;
+}
+
+#contact{
+    padding: 40px;
+}
+
+#contentbox
+{
+    background-color: aquamarine;
+    padding: 30px;
+}
